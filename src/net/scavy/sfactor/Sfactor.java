@@ -4,6 +4,7 @@ package net.scavy.sfactor;
  * Created by Scavy on 22.03.2014
  *
  * Project: SFactor
+ *
  */
 
 import javax.swing.*;
